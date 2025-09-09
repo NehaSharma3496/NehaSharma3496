@@ -51,7 +51,7 @@
 
 ## 🎓 Education  
 🎓 MCA – Maharaja Ranjit Singh College, Indore (2017–2019)  
-🎓 BCA – Maharaja Ranjit Singh College, Indore (2014–2017)  
+🎓 BCA – Shri Cloth Market Institute of Professional Studies, Indore (2014–2017)  
 
 ---
 
@@ -67,7 +67,7 @@
 📍 Indore, India  
 📧 [sharmaneha3496@gmail.com](mailto:sharmaneha3496@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](#)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](#](https://www.linkedin.com/in/neha-sharma-245065243/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=fff)](#)  
 
 ---
