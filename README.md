@@ -36,8 +36,8 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Outbook – Business Management System](https://outbooks.magicweb.tk/#/login)**  
-🔹 **[Pricing Tool – Dynamic Quotation App](https://price.magicweb.tk/)**  
+🔹 **[Outbook – Business Management System](https://dev.jobs.outbooks.com/)**  
+🔹 **[Pricing Tool – Dynamic Quotation App](https://testproposal.nomismasolution.co.uk/#/login/)**  
 🔹 **[Stock Box – Real-Time B2B Trading](https://stockbox.pnpuniverse.com/#/login)**  
 🔹 **[E-Sign – Digital Signing Platform](https://esignaadhaar.com/#/login)**  
 🔹 **[Trade Street – Charting & Strategy Platform](https://soptools.tradestreet.in/#/login)**  
