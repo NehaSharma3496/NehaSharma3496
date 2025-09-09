@@ -66,7 +66,6 @@
 
 📍 Indore, India  
 📧 [sharmaneha3496@gmail.com](mailto:sharmaneha3496@gmail.com)  
-📱 +91 8120045713  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](#)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=fff)](#)  
