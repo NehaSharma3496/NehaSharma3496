@@ -67,7 +67,7 @@
 📍 Indore, India  
 📧 [sharmaneha3496@gmail.com](mailto:sharmaneha3496@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)]([#](https://www.linkedin.com/in/neha-sharma-245065243/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/neha-sharma-245065243/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=fff)](#)  
 
 ---
