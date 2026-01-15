@@ -36,12 +36,14 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Outbook – Business Management System](https://dev.jobs.outbooks.com/)**  
-🔹 **[Pricing Tool – Dynamic Quotation App](https://testproposal.nomismasolution.co.uk/#/login/)**  
+🔹 **[Stallion Assets](https://www.stallionasset.com/)**  
+🔹 **[Crypto – Automated Trading](https://crypto.deepmindinfotech.com/)**  
+🔹 **[Smart Bot](https://smartbot.tradestreet.in/)**
+🔹 **[Pricing Tool – Dynamic Quotation App](https://testproposal.nomismasolution.co.uk/#/login/)** 
 🔹 **[Stock Box – Real-Time B2B Trading](https://stockbox.pnpuniverse.com/#/login)**  
-🔹 **[E-Sign – Digital Signing Platform](https://esignaadhaar.com/#/login)**  
+🔹 **[E-Sign – Digital Signing Platform](https://esignaadhaar.com/#/weblanding)**  
 🔹 **[Trade Street – Charting & Strategy Platform](https://soptools.tradestreet.in/#/login)**  
-🔹 **[New Smart Algo – Automated Trading](https://newpenal.pandpinfotech.com/#/login)**  
+🔹 **[Outbook – Business Management System](https://dev.jobs.outbooks.com/)**  
 🔹 **[Market Hub](https://mhverse.in/)**  
 
 **WordPress Projects**:  
